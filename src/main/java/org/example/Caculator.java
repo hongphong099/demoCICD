@@ -9,6 +9,6 @@ public class Caculator implements Icaculator {
 
     @Override
     public Integer sub(Integer a, Integer b) {
-        return a-b; 
+        return 0; 
     }
 }
